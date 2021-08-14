@@ -8,27 +8,27 @@
 
 <h1>使用方法</h1>
 <h2>使用終端機下載：</h2>
-<span>git clone https://github.com/tree12132002/restaurant_list</span>
+<br>git clone https://github.com/tree12132002/restaurant_list</br>
 <h2>簡易下載：</h2>
-<span>I. 點選綠色框框的『Code』</span>
-<span>II. 點選『Download ZIP』</span>
+<br>I. 點選綠色框框的『Code』</br>
+<br>II. 點選『Download ZIP』</br>
 
 <h2>打開終端機，將路徑切至資料夾</h2>
-<span>I. 安裝套件</span>
-<span>npm install</span>
-<span>II. 輸入指令來執行</span>
-<span>npm run dev</span>
-<span>使用ctrl + c離開</span>
+<br>I. 安裝套件</br>
+<br>npm install</br>
+<br>II. 輸入指令來執行</br>
+<br>npm run dev</br>
+<br>使用ctrl + c離開</br>
 
 
 <h1>相關套件與版本</h1>
 <h2>檔案管理相關</h2>
-<span>npm：7.20.3</span>
-<span>express: 4.17.1</span>
-<span>express handlebars: 5.3.3</span>
-<span>nodemon: 2.0.12</span>
+<br>npm：7.20.3</br>
+<br>express: 4.17.1</br>
+<br>express handlebars: 5.3.3</br>
+<br>nodemon: 2.0.12</br>
 <h2>視覺效果相關</h2>
-<span>jquery: 3.6.0</span>
-<span>popper: v2.9.1</span>
-<span>bootstrap: v4.6.0</span>
-<span>font-awesome: v5.15.4</span>
+<br>jquery: 3.6.0</br>
+<br>popper: v2.9.1</br>
+<br>bootstrap: v4.6.0</br>
+<br>font-awesome: v5.15.4</br>
