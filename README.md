@@ -8,7 +8,7 @@
 
 <h1>使用方法</h1>
 <h2>使用終端機下載：</h2>
-<br>git clone https://github.com/tree12132002/restaurant_list</br>
+<br>git clone https://github.com/RaymondChang5/restaurant_list</br>
 <h2>簡易下載：</h2>
 <br>I. 點選綠色框框的『Code』</br>
 <br>II. 點選『Download ZIP』</br>
