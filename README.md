@@ -19,3 +19,16 @@
 <span>II. 輸入指令來執行</span>
 <span>npm run dev</span>
 <span>使用ctrl + c離開</span>
+
+
+<h1>相關套件與版本</h1>
+<h2>檔案管理相關</h2>
+<span>npm：7.20.3</span>
+<span>express: 4.17.1</span>
+<span>express handlebars: 5.3.3</span>
+<span>nodemon: 2.0.12</span>
+<h2>視覺效果相關</h2>
+<span>jquery: 3.6.0</span>
+<span>popper: v2.9.1</span>
+<span>bootstrap: v4.6.0</span>
+<span>font-awesome: v5.15.4</span>
