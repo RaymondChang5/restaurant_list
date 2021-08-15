@@ -23,12 +23,12 @@
 
 <h1>相關套件與版本</h1>
 <h2>檔案管理相關</h2>
-<br>npm：7.20.3</br>
+<br>npm：6.14.14</br>
 <br>express: 4.17.1</br>
 <br>express handlebars: 5.3.3</br>
 <br>nodemon: 2.0.12</br>
 <h2>視覺效果相關</h2>
 <br>jquery: 3.6.0</br>
 <br>popper: v2.9.1</br>
-<br>bootstrap: v4.6.0</br>
-<br>font-awesome: v5.15.4</br>
+<br>bootstrap: v5.1.0</br>
+<br>font-awesome: v5.8.1</br>
